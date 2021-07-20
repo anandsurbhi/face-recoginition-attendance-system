@@ -40,3 +40,10 @@ II. System Hard Disk : 500 Gb or more
 III. RAM : 4 GB or more
 
 IV. Core : 2.4 GHz Intel® CoreTM2 Duo
+
+
+
+Flowchart:
+![image](https://user-images.githubusercontent.com/51492488/126384235-1ea39580-d60e-4f2a-817b-97ccd285ae03.png)
+
+
