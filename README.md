@@ -30,10 +30,13 @@ IV. Libraries used : Version
 5. Numpy : 1.14.0
 V. Operating System : Windows 7 or later/Linux or MAC OS or later.
 
-2.5.2) Hardware Requirement
+ Hardware Requirement
 
 The hardware requirement are as follows :
 I. Web Camera/USB Camera
+
 II. System Hard Disk : 500 Gb or more
+
 III. RAM : 4 GB or more
+
 IV. Core : 2.4 GHz Intel® CoreTM2 Duo
