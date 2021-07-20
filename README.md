@@ -14,3 +14,26 @@ PROJECT SCOPE
 
 Face recognition systems work very well under constrained conditions, although all systems work much better with frontal images and constant lighting. All current face recognition algorithms do not do that good under the vastly varying conditions under which humans need to and are able to identify other people. Next generation person recognition systems will need to recognize people in constrained situations as well as adapt new modifications. The project is based on believe that identification systems that are robust in natural environments, in the presence of noise and illumination changes, cannot rely on a single modality, so that fusion with other modalities is essential. Technology used in smart environments has to be unobtrusive and allow users to act freely. Considering all the requirements, identification systems that use face recognition and speaker identification seemto us to have the most potential for wide-spread application. Cameras and microphones today are very small, light-weight and have been successfully
 integrated with other systems. The researchers are beginning to look deep into the matter and to demonstrate that unobtrusive audio-and-video based person identification systems can achieve high recognition rates without requiring the user to be in highly controlled environments. Today, one of the fields that uses facial recognition the most is security. Facial recognition is a very effective tool that can help law enforcing organisations to recognize criminals and defaulters. Many software companies are leveraging the technology to help users access their technology and make the best use out of it. This technology can be further developed to be used in other avenues such as ATMs, accessing confidential files, or other sensitive materials as and when needed as per the convenience of the organization.
+
+
+
+The needed software and all other dependent libraries for its implementation are :
+
+I. Programming Language : Python
+II. GUI toolkit : Tkinter(Tk)
+III. Library Installer : Anaconda Prompt
+IV. Libraries used : Version
+1. Opencv-python : 3.4.0.12
+2. OpenCv-contrib-python : 3.4.0.12
+3. Pillow : 5.0.0
+4. Argparse : 1.4.0
+5. Numpy : 1.14.0
+V. Operating System : Windows 7 or later/Linux or MAC OS or later.
+
+2.5.2) Hardware Requirement
+
+The hardware requirement are as follows :
+I. Web Camera/USB Camera
+II. System Hard Disk : 500 Gb or more
+III. RAM : 4 GB or more
+IV. Core : 2.4 GHz Intel® CoreTM2 Duo
